@@ -92,16 +92,6 @@ url-shortener/
 - Frontend: HTML, CSS, JavaScript
 - Authentication: JWT, bcrypt
 
-## Screenshots
-
-### Registration Page
-![Registration Page](https://via.placeholder.com/800x400?text=Registration+Page)
-
-### Login Page
-![Login Page](https://via.placeholder.com/800x400?text=Login+Page)
-
-### Homepage
-![Homepage](https://via.placeholder.com/800x400?text=Homepage)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
